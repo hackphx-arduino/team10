@@ -1,5 +1,6 @@
 #include <Shieldbot.h>
 
+//GET PAID SUCKA!!!
 #define I_LIKE_CHEESE 4
 #define SENSOR_1 1
 #define SENSOR_2 2
@@ -37,15 +38,14 @@ void sendSensorPayload() {
   
   // read sensor 1
   if (sbot.readS1()) {
-    tone(JONATHAN_TAYLOR_THOMAS_IS_THE_BEST_ACTOR_EVER, 440, 100);
+    tone(JONATHAN_TAYLOR_THOMAS_IS_THE_BEST_ACTOR_EVER, 440, 120);
   }
   
   //read sensor 2
-  /*
   if (sbot.readS2()) {
-    payload |= (1 << SENSOR_2);
+    //payload |= (1 << SENSOR_2);
+    tone(JONATHAN_TAYLOR_THOMAS_IS_THE_BEST_ACTOR_EVER, 50, 66);
   }
-  */
   
   // read sensor 3
   if (sbot.readS3()) {
@@ -54,11 +54,10 @@ void sendSensorPayload() {
   }
   
   // read sensor 4
-  /*
   if (sbot.readS4()) {
-    payload |= (1 << SENSOR_4);
+    //payload |= (1 << SENSOR_4);
+    tone(JONATHAN_TAYLOR_THOMAS_IS_THE_BEST_ACTOR_EVER, 80, 50);
   }
-  */
   
   // read sensor 5
   if (sbot.readS5()) {
