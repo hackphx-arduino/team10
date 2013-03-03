@@ -1,11 +1,8 @@
-#HackPhx::TeamX
+#HackPhx::TeamX (aka the Arduino Chumbawumba)
 ===============
 
-##musicbox o' death
+##musicbox o' death aka Z-Plane Ghettoblaster
 
-aka Z-Plane Ghettoblaster
-
-  
   
 *Created by TeamX & JTT*
 
