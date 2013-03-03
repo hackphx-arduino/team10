@@ -9,6 +9,6 @@ aka Z-Plane Ghettoblaster
   
 *Created by TeamX & JTT*
 
-![THE MAN](../blob/master/src/the_man.jpg?raw=true)
+![THE MAN](https://github.com/hackphx-arduino/team10/blob/master/src/the_man.jpg)
 
 
